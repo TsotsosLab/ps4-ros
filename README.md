@@ -1,4 +1,4 @@
-# ps4_ros
+# ps4 ros
 Sony PlayStation 4 DualShock®4 node joy_msg to twist_msg
 
 # Installation
